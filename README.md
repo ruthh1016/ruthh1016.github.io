@@ -1,2 +1,2 @@
 # ruthh1016.github.io
-Data Journalism Class Things
+Data Journalism Portfolio
